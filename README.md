@@ -8,9 +8,7 @@ Contém os artefatos da seguintes disciplina:
 Equipe
 
 * _Alan Lemos (ala7)_*
-* Alyne Alves (adas)
 * Cristiane Kiffer (cks2)
-* Lucas Gallindo (lgms)
 * Pedro Rodolfo (prgs)
 * Roberta Baudel (rbf4)
   
